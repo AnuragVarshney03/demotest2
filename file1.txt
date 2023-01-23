@@ -2,3 +2,4 @@ Updating the file --------- This is the content of new file1
 adding new content from visual code
 adding new content
 Done with the code
+New text added
