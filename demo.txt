@@ -1,1 +1,3 @@
 The data is created from branch
+Merging the data directly into master from git
+
